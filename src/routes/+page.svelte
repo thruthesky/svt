@@ -1,3 +1,7 @@
+remove the nodejs_compat
+
+<hr>
+
 OOPssss !!
 
 <h1>Welcome to SvelteKit</h1>
